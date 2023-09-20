@@ -44,11 +44,29 @@ Moving Right
 ![image](https://github.com/Kayalvizhi02/mdp-representation/assets/75413726/91ecfabf-35b8-414c-8f3e-966932c018c9)
 
 ## PYTHON REPRESENTATION:
-Write your code here
-
+```python
+P = {
+    0:{
+        0: [(1.0,0,0.0,True)],
+        1: [(1.0,0,0.0,True)]
+    },
+    1:{
+        0: [(1.0,0,0.0,True)],
+        1: [(1.0,2,1.0,True)]
+    },
+    2:{
+        0: [(1.0,2,0.0,True)],
+        1: [(1.0,2,0.0,True)]
+    }
+}
+```
 ## OUTPUT:
-Write your Python output here
+
+![image](https://github.com/Kayalvizhi02/mdp-representation/assets/75413726/df562e49-3c3b-458d-b6eb-281842f67152)
 
 ## RESULT:
-Write your output here
+
+Thus the given real world problem is successfully represented in a MDP form.
+
+
 
