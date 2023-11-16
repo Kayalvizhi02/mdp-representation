@@ -1,4 +1,6 @@
-# MDP REPRESENTATION
+### EX NO: 06
+### DATE:
+# <p align="center">MDP REPRESENTATION</p>
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
@@ -45,6 +47,9 @@ Moving Right
 
 ## PYTHON REPRESENTATION:
 ```python
+# Developed by: Kayalvizhi M
+# Register Number: 212220230024
+
 P = {
     0:{
         0: [(1.0,0,0.0,True)],
